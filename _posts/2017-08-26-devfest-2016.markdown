@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "DevFest 2016"
+date:   2014-08-26 09:30:00
+isStaticPost: false
+---
+It has been 1 year since our last clustered DevFest in Dschang with 5 GDGs of the Western Region of Cameroon.
+
+The last year's DevFest brought together many developers, students, tech-enthusiasts and companies who attended the event and participated in much of its parallel sessions. It was the second cluster after the one organized in Bandjoun in 2015. DevFest West 2016 as it was called was truly awesome since many learnt from the sessions that took place.
+
+##### Some key Leaning at DevFest West 2016
+  * Progressive Web Apps   
+     The new way of building web apps was presented with real examples
+  * Machine Learning  
+     Machine learning discussed with a codelab using the vision api  
+     Tensorflow project was at the topic
+  * Android N preview.  
+     The features of the new Android OS  
+     The new Android studio using a short video from I/O  
+     Ionic framework to build apps faster
+  * Google Maps  
+     How map can be integrated to map
+

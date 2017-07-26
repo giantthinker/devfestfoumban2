@@ -1,0 +1,59 @@
+- 
+  id: 3
+  name: "Abdellah"
+  surname: "Ramadan"
+  company: "Aurora Space"
+  title: "GDG Foumban Lead"
+  bio: "Abdellah is tech enthusiast, software engineering student, web and Android developer, programmer by love. He joined GDG in 2014 and has been partaking to events and more activities of this awesome community. He is currently a co-lead of GDG Foumban. He is the CEO of Aurora Space a software consulting company in Cameroon."
+  thumbnailUrl: Ramadan.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/101655900172336891178/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+AbdellahRamadan"}
+    - {name: "twitter", link: "https://twitter.com/ramadanabdel24"}
+  
+- 
+  id: 4
+  name: "Muhammed"
+  surname: "Moustapha"
+  company: "Farex"
+  title: "Android Developer"
+  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
+  thumbnailUrl: mustapha.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
+  id: 5
+  name: "Njoya"
+  surname: "Houdi"
+  company: "Base CRM, GDG Krakow"
+  title: "Software Engineer"
+  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
+  thumbnailUrl: houdi1.jpg
+  rockstar: true
+  ribbon: 
+   # - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/101655900172336891178/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+    - {name: "twitter", link: "https://twitter.com/mherych"}
+- 
+  id: 6
+  name: "Bachirou"
+  surname: "Njoya"
+  company: "Stanfy, GDG Kyiv"
+  title: "Head of Android/Java Unit"
+  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
+  thumbnailUrl: bachirou.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/101655900172336891178/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+
+ 
