@@ -6,7 +6,7 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'ANAME']
 
 
 # Site Settings
@@ -117,7 +117,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "GDGFoumban"
-twitterFeed: "http://haideholdings.com/tweetledee/homejson.php?c=10&cache_interval=8000"
+twitterFeed: "http://haideholdings.com/tweetledee/favoritesjson.php"
 
 # Partners Block
 organizersTitle: "Organizers"
