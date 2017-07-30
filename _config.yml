@@ -6,7 +6,7 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'ANAME']
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
@@ -14,7 +14,7 @@ title: "GDG DevFest Foumban 2017"
 email: "gdgfooumban14@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: " "
-url: "https://giantthinker.github.io/devfestfoumban/"
+url: " "
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-84293253-2"
 googleAnalyticsSiteUrl: "giantthinker.github.io/devfestfoumban/"
