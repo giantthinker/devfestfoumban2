@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'ANAME']
 title: "GDG DevFest Foumban 2017"
 email: "gdgfooumban14@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/devfestfoumban"
+baseurl: " "
 url: "https://giantthinker.github.io/devfestfoumban/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-84293253-2"
